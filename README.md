@@ -10,6 +10,7 @@ The needed requirements can be found in `requirements` and installed by running
 
 ### book_code
 This folder contains code that was written along with part 2 and 3 of the book 'Make Your Own Neural Network' by Tariq Rashid (2016).
+* `__init__.py`: initialised script for importing the neural network into implementation
 * `MNIST.py`: the code to train and test the neural network on the MNIST data set. 
 
 ### code 
